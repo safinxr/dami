@@ -6,7 +6,7 @@ section{
     display: flex;
 }
 .top-color{
-    color:rgb(234, 44, 176);
+    color:rgb(230, 86, 186);
 }
 h1{
     font-size: 50px;
@@ -56,11 +56,14 @@ h2{
     height: 400px;
     margin-right: 20px;
     border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 .juju img{
-    width: 180px;
+    width: 135px;
     height:auto;
-    padding-left:50px;
+    padding-left:10px;
+    margin-top: 30px;
 }
 .toky{
     background-color: #ff6b81;
@@ -68,24 +71,39 @@ h2{
     height: 400px;
     margin-right: 20px;
     border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 .toky img{
-    width: 200px;
+    width: 147px;
     height:auto;
-    padding-left:50px;
+    padding-left:10px;
+    margin-top: 30px;
+}
+#tokyo-margin{
+   margin-top: 0px;
 }
 .myhe{
     background-color: #70a1ff;
     width: 500px;
     height: 400px;
     border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
 
 }
 .myhe img{
-    width: 160px;
+    width: 125px;
     height:auto;
-    padding-left:50px;
+    padding-left:10px;
+    margin-top: 30px;
 }
 .there{
     margin: 4%;
+}
+#my-hero{
+    margin-top: 10px;
+}
+.part03{
+    text-align: center;
 }
